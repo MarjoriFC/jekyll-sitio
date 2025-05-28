@@ -1,13 +1,13 @@
-
-
 title: Mi primer sitio con Jekyll.
 author: Marjori Flores.
-description: >- # this means to ignore newlines until "baseurl:"
+description: >-
   Sitio de ejemplo usando Jekyll.
 twitter_username: yo
-github_username:  yo
+github_username: yo
 
-# Build settings
+baseurl: "/jekyll-sitio" 
+url: "https://marjorifc.github.io" 
+
 theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
