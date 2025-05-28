@@ -14,3 +14,5 @@ Aquí se podrán ver mis futuras publicaciones.
 - [Inicio](/)
 - [Sobre mí](/about)
 - [Contacto](/contact)
+
+![Imagen destacada](/assets/images/destacada.jpg)
