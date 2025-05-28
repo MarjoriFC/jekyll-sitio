@@ -12,7 +12,7 @@ Aquí se podrán ver mis futuras publicaciones.
 ## Navegación
 
 - [Inicio](/)
-- [Sobre mí](/about)
+- [Sobre mí](/about/)
 - [Contacto](/contact)
 
 ![Imagen destacada](/assets/images/destacada.jpg)
