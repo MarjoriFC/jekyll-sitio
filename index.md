@@ -8,3 +8,9 @@ title: Bienvenido a mi sitio
 Este es mi sitio usando Architect en Jekyll.
 
 Aquí se podrán ver mis futuras publicaciones.
+
+## Navegación
+
+- [Inicio](/)
+- [Sobre mí](/about)
+- [Contacto](/contact)
