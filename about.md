@@ -4,6 +4,9 @@ title: Acerca de
 permalink: /about/
 ---
 
-¡Hola! Este es un sitio web estático hecho con Jekyll.
+Me llamo Marjori Flores y estos son mis primeros pasos usando Jekyll.
+
+Soy estudiante de la Universidad Mariano Gálvez.
+
 
 
